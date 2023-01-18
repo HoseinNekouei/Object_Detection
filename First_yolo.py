@@ -5,8 +5,8 @@ import numpy as np
 cap = cv.VideoCapture(0)
 coco_file= 'coco.names'
 coco_classes = []
-net_config = 'yolov3.cfg'
-net_weights = 'yolov3.weights'
+net_config = 'cfg/yolov3.cfg'
+net_weights = 'cfg/yolov3.weights'
 blob_size = 320
 confidence_threshold = 0.5
 nms_threshold = 0.3
