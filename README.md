@@ -8,4 +8,4 @@ Base on CPU and Opencv
 
 2- Put two config files inside it(yolov3.cgf , yolov3.weight)
 
-Thanks to [Mr Mostafa Asefy](https://github.com/mostafa-asefy) for teaching the YOLO algorithm and It will be appreciate if you kindly share me your ideas, nekouei.hosein[at]gmail.com
+Also, Thank you to [Mr Mostafa Asefy](https://github.com/mostafa-asefy) for teaching the YOLO algorithm and It will be appreciate if you kindly share me your ideas, nekouei.hosein[at]gmail.com
