@@ -52,7 +52,7 @@ def findObjects(out_put, img):
         color_ndarray = COLORS[coco_classes.index(coco_classes[class_ids[indice]])]
         color_tuple = tuple([int(item) for id,item in enumerate(color_ndarray)])
 
-        drawing(img,x,y,w,h,color_tuple,class_ids,indice,confidence)
+        drawing(img,x,y,w,h,color_tuple,class_ids,indice,confidences)
 
 
 def drawing(img,x,y,w,h,color_tuple,class_ids,indice,confidences):
