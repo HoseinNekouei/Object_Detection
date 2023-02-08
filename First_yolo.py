@@ -8,7 +8,7 @@ coco_classes = []
 net_config = 'cfg/yolov3.cfg'
 net_weights = 'cfg/yolov3.weights'
 blob_size = 320
-confidence_threshold = 0.5
+confidence_threshold = 0.4
 nms_threshold = 0.3
 
 # r=read, t=text mode, b=binary mode
